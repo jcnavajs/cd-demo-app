@@ -1,0 +1,15 @@
+{
+  "name": "cd-demo-app",
+  "version": "1.0.0",
+  "description": "gcp bootcamp create dockerfile",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
